@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><autores>
+    <autores>
+        <autor codigo="a1">
+            <nome>Alexandre Numas</nome>
+            <titulo>El conde de Montecristo</titulo>
+            <titulo>Los miserables</titulo>
+        </autor>
+        <autor codigo="a2">
+            <nome>Fiodor Dostoyevski</nome>
+            <titulo>El idiota</titulo>
+            <titulo>noches blancas</titulo>
+        </autor>
+    </autores>
+</autores>
